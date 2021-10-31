@@ -1,1 +1,3 @@
-https://colab.research.google.com/drive/1iADhB1fkFPyPW9zIKWHuyzPvE682zv5C
+pre trained model-> https://colab.research.google.com/drive/1iADhB1fkFPyPW9zIKWHuyzPvE682zv5C
+custom trained model ->
+https://colab.research.google.com/drive/1R60G2dDYcM5ULkdgzjfEYJeWRGgOf9UO
